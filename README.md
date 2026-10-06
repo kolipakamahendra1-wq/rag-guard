@@ -48,7 +48,7 @@ Layers: `detection/` (scoring, detector, faithfulness) · `retrieval/` (strategi
 ## Quickstart
 
 ```bash
-git clone <your-fork-url> rag-guard && cd rag-guard
+git clone https://github.com/kolipakamahendra1-wq/rag-guard.git && cd rag-guard
 python -m venv .venv && source .venv/bin/activate      # Windows: .venv\Scripts\activate
 pip install -e ".[dev]"
 
